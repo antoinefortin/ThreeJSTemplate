@@ -1,2 +1,2 @@
 # ThreeJSTemplate
-A template for ThreeJS
+A **standalone** template for ThreeJS
